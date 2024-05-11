@@ -1,5 +1,18 @@
 ### Hi there 👋
-##I am Sumesh Varadharajan
+
+**I am Sumesh Varadharajan**
+
+_ _A proactive and fast learning data pursuit seeking an opportunity to work as a dynamic beginner, utilizing logical and
+analytical skills in a proficient way to help the organization to achieve business goals._ _
+
+- 🎓 I’m currently pursuing MSc in Artificial Intelligence and Machine Learning at Coimbatore Institute of Technology.
+- 🔭 I’m currently working on ...
+- 👯 Interested in collaborating with industry leaders specializing in AI and ML.
+- 🌱 A Machine Learning and Data Science enthusiast.
+
+- 📫 How to reach me: ...
+- 📧 Email: vsumesh0105@gmail.com
+- 📘LinkedIn: www.linkedin.com/in/sumeshvaradharajan
 <!--
 **Sumesh0105/Sumesh0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
